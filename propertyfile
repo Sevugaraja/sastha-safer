@@ -1,0 +1,16 @@
+browser = chrome
+url = https://www.sastasafar.com/
+from = chennai
+to = bangalore
+email = ksevugaraja2001@gmail.com
+phone = 8838785911
+firstname = Sevugaraja
+lastname = kalimuthu
+firstname1 = ramya
+lastname2 = rajan
+cardnumber =4594-5380-5063-9999		
+expiry = 05/25	
+cardname = Raja
+cvv = 123
+
+
